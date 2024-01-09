@@ -22,12 +22,12 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "cyberxsadu",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private , public , only_group )",
+            "description": "private , public "
             "required": true,
             "value": "private"
         }
